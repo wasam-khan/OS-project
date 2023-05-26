@@ -80,6 +80,7 @@ int main()
             cout << "Command History:" << endl;
             for (const auto& command : commandHistory)
             {
+		    
 
                 // Print the timestamp and command
                 cout << "[" << command.first << "] " << command.second << endl;
