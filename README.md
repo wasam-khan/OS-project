@@ -7,7 +7,7 @@ List of commands
 1.	cd: Changes the current working directory.
 2.	mkdir: Creates a new directory.
 3.	grep: Searches for a pattern in a file.
-4.	alarm: Sets an alarm to interrupt the program after a specified time.
+4.	alarm: Sets an alarm to interrupt the program after a specified time. 
 5.	sleep: Suspends the program execution for a specified time.
 6.	cat: Displays the contents of a file.
 7.	echo: Prints the provided arguments.
